@@ -1,3 +1,10 @@
 .navbar{
     background-color: antiquewhite;
 }
+.quem-somos{
+    background-color: thistle;
+}
+.margin-quemsomos{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
